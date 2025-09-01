@@ -43,12 +43,10 @@ Currently contributing to **Workflow/E-approval** and **Secure-Board** projects 
 
 | Project | Stack | Description |  
 |---------|-------|-------------|  
-| [Saucedemo Automation](#) | WebdriverIO, Mocha, Allure | Automated functional/UI tests using **POM** with reporting |  
-| [TryTestingThis (Cypress)](#) | Cypress, JavaScript, Allure | End-to-end UI automation with Cypress & **Allure reports** |  
-| [Evershop Demo UI+API Testing](#) | WebdriverIO, Cypress, Postman | Combined **UI & API automation** for demo e-commerce site |  
-| [Hishabee Business App Testing](#) | Manual Testing | Includes **test plan, test cases, bug reports, mind maps** |  
-| [Manual Testing Assessment (OSTAD)](#) | Manual Testing | End-to-end manual testing artifacts from professional training |  
-| [Ensemble Methodology (Research)](#) | Python, TensorFlow, CNNs | Image classification research using ensemble of deep models |  
+| [TryTestingThis Cypress Automation](https://github.com/AbirBony21/TryTestingThis-Cypress-Automation) | Cypress, JavaScript, Allure | **End-to-end** test automation, as well as individual elements testing; integrated with **Allure reporting** for test insights | 
+| [Saucedemo Automation](https://github.com/AbirBony21/Saucedemo-Automation) | WebdriverIO, Mocha, Allure | Functional/UI automation for Saucedemo using **POM**, **Chai** assertions, and reporting with **Allure** |   
+| [ Manual Testing on Evershop-Demo](https://github.com/AbirBony21/Manual-Testing-Evershop) | Manual Testing, Postman | Includes **Requirement Analysis**, **Test Case Design**, **Test Execution**, **Defect Logging** comparing both **UI & API** |  
+| [ Hishabee Business App Manual Testing](https://github.com/AbirBony21/Hishabee-Business-App-Manual-Testing) | Manual Testing |Tested two key modules to ensure the functionality, usability, and reliability of the application. Includes **Test plan**, **Test case design & execution**, **Bug reporting**, and **Mindmap** for a real-world mobile app |  
 
 ---
 
