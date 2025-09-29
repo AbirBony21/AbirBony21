@@ -44,8 +44,7 @@ Currently contributing to **Workflow/E-approval** and **Secure-Board** projects 
 | Project | Stack | Description |  
 |---------|-------|-------------|  
 | [TryTestingThis Cypress Automation](https://github.com/AbirBony21/TryTestingThis-Cypress-Automation) | Cypress, JavaScript, Allure | **End-to-end** test automation, as well as individual elements testing; integrated with **Allure reporting** for test insights | 
-| [REST API Testing](https://github.com/AbirBony21/REST-API-Testing) | Postman, Newman CLI, HTML Reporter, Javascript | Manual & Automated testing on public APIs **FakeREST**,
- **Reqres**, **Swagger Petstore** and **Github REST**; validated endpoints, dynamic data handling, and response assertions | 
+| [REST API Testing](https://github.com/AbirBony21/REST-API-Testing) | Postman, Newman CLI, HTML Reporter, Javascript | Manual & Automated testing on public APIs **FakeREST**, **Reqres**, **Swagger Petstore** and **Github REST**; validated endpoints, dynamic data handling, and response assertions | 
 | [Saucedemo Automation](https://github.com/AbirBony21/Saucedemo-Automation) | WebdriverIO, Mocha, Allure | Functional/UI automation for Saucedemo using **POM**, **Chai** assertions, and reporting with **Allure** |   
 | [ Manual Testing on Evershop-Demo](https://github.com/AbirBony21/Manual-Testing-Evershop) | Manual Testing, Postman | Includes **Requirement Analysis**, **Test Case Design**, **Test Execution**, **Defect Logging** comparing both **UI & API** |  
 | [ Hishabee Business App Manual Testing](https://github.com/AbirBony21/Hishabee-Business-App-Manual-Testing) | Manual Testing |Tested two key modules to ensure the functionality, usability, and reliability of the application. Includes **Test plan**, **Test case design & execution**, **Bug reporting**, and **Mindmap** for a real-world mobile app |  
