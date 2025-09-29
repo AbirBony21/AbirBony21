@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Md. Abir Hossain Bony
 
-🚀 **QA Intern | SQA Enthusiast | Manual and Automated Testing**  
-💼 **QA Intern at RedDot Digital Ltd. (A Subsidiary of Robi Axiata Ltd.)**  
+🚀 **SQA Enthusiast | Manual and Automated Testing**  
+💼 **Completed QA Internship at RedDot Digital Ltd. (A Subsidiary of Robi Axiata Ltd.)**  
 📍 Based in Dhaka, Bangladesh  
 
 ---
