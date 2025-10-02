@@ -10,7 +10,7 @@
 I’m a motivated **CSE graduate from AUST** and aspiring **QA professional** passionate about ensuring software quality through **manual testing, automation, API validation, Performance** and **Security**.  
 
 - ✅ Hands-on experience in **Selenium, Cypress, and WebdriverIO** using **Page Object Model (POM)** design pattern  
-- ✅ Proficient in **API testing** with **Postman, Newman CLI**, and **JMeter**  
+- ✅ Proficient in **API testing** with **Postman, Newman CLI**, and load testing with **JMeter**  
 - ✅ Skilled in writing **Test plans, Test cases, Bug reports** and **UAT documents**  
 - ✅ Experience with **UAT & Dry-run Sessions**, **E2E Workflow testing**, **Data-driven testing**, and **Process automation validation**  
 - ✅ Strong foundation in **Python, JavaScript, C++**, and **SQL (PostgreSQL, pgAdmin 4)**  
