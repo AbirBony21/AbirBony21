@@ -21,9 +21,9 @@ Currently contributing to **Workflow/E-approval** and **Secure-Board** projects 
 
 ### 🧰 Tech Stack I Work With  
 
-#### 🧪 Testing & QA Tools  
-`Manual Testing` `Postman` `JIRA` `JMeter`  
-`Selenium` `WebdriverIO` `Cypress` `Mocha` `Allure Reports` `POM Design Pattern`  
+#### 🧪 Testing & QA Tools 
+`Manual Testing` `Postman` `Newman CLI` `JMeter` `HTML Reporter`
+`Cypress` `Playwright` `Selenium` `WebdriverIO` `Allure Reporter`
 
 #### 💻 Programming Languages  
 `C/C++` `Python` `Java`  
@@ -34,8 +34,11 @@ Currently contributing to **Workflow/E-approval** and **Secure-Board** projects 
 #### 🌐 Web Development  
 `HTML` `CSS` `JavaScript` `PHP`  
 
+#### 💼 Project Management  
+`JIRA` `Github` 
+
 #### ☁️ Tools & Productivity  
-`GitHub` `VS Code` `MS Office` `LaTeX` `Google Workspace` `Canva`
+`MS Office` `LaTeX` `Google Workspace` `Canva`
   
 ---
 
