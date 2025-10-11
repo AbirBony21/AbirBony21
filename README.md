@@ -56,8 +56,8 @@ Currently contributing to **Workflow/E-approval** and **Secure-Board** projects 
 
 ### 🏆 Achievements  
 
-- 🎓 **B.Sc. in CSE**, Ahsanullah University of Science and Technology (AUST) 
-- 📜 Completed courses: **SQA: Manual and Automated Testing** Batch 7 on **OSTAD** online platform.  
+- 🎓 **B.Sc. in CSE**, Ahsanullah University of Science and Technology (AUST) |  February 2020 - April 2024 | CGPA - 3.5
+- 📜 Completed courses: **SQA: Manual and Automated Testing** Batch 7 on **OSTAD** online platform |  June 2024 - December 2024
 - 🖥️ Practical experience with **Manual, Automation, and API testing projects**  
 
 ---
