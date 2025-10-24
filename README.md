@@ -2,7 +2,7 @@
 
 🚀 **SQA Enthusiast | Manual and Automated Testing**  
 💼 Completed **QA Internship** at **RedDot Digital Ltd.** (A Subsidiary of **Robi Axiata PLC.**)  
-💼 Currently working as **Jr. SQA Engineer** at **Metafour Asia Ltd.**
+💼 Currently working as **Jr. SQA Engineer** at **Metafour Asia Ltd.**  
 📍 Based in Dhaka, Bangladesh  
 
 ---
